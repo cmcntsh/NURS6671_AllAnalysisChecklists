@@ -6,6 +6,7 @@
 * [Paired t-test](https://github.com/cmcntsh/NURS6671_Checklist_W9_Pairedttest)
 * [One-Way ANOVA](https://github.com/cmcntsh/NURS6671_Checklist_W10_1ANOVA)
 * [Two-Way ANOVA](https://github.com/cmcntsh/NURS6671_Checklist_W11_2ANOVA)
+* [RMANOVA](https://github.com/cmcntsh/NURS7201_Checklist_W10_RMANOVA)
 * [Pearson Correlation](https://github.com/cmcntsh/NURS6671_Checklist_W12_Correlation)
 * [Simple Regression](https://github.com/cmcntsh/NURS6671_Checklist_W13_SimpReg)
 * [Multiple Regression](https://github.com/cmcntsh/NURS6671_Checklist_W14_MultReg)
